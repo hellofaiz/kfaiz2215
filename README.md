@@ -1,4 +1,4 @@
-👋 Hi, I’m FAIZ KHAN
+👋 Hi, I’m FAIZ KHAN.
 👀 I’m keen interested in mern stack.
 🔭 I’m currently learning Full stack devloper .
 👯 I’m looking to collaborate with Java Developers.
